@@ -21,8 +21,8 @@ Since Rev. 19 the project was moved on OnShape and project version numbering was
 
 ## OnShape project
 
-* [Development release](https://cad.onshape.com/documents/e225086690158d5a937bf9fe/w/4021bf2bfacdceba3b1f0556/e/9dfe74fe60fd68384dbb2f50) - Mantained by Alessandro Villa
 * [Stable release](https://cad.onshape.com/documents/5b587ad656e9d002f8e6bad6/w/de2c6c2802ab923db649ef32/e/ab629266e0f6758e30a87845) - Manteined by e-Nable Italia
+* [Development release](https://cad.onshape.com/documents/e225086690158d5a937bf9fe/w/4021bf2bfacdceba3b1f0556/e/9dfe74fe60fd68384dbb2f50) - Mantained by Alessandro Villa
 
 ## Thingiverse project
 
