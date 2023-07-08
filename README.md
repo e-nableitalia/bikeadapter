@@ -10,6 +10,9 @@ This device was designed to help children and adults with limb difference proble
 
 Fusion version is deprecated and was left here only for historical reason, we suggest to to build your device using the last stable version published on OnShape by e-Nable Italia (See OnShape project below).
 
+The device is printed with flexible filament (TPU) to obtain the perfect mix between comfort, safety and functionality.
+The project is open source, e-Nable Italia's volunteers provide the Bike Adapter device (and others) free of charge for anyone is in need of such assistive devices.
+
 ## History
 
 Up to Rev. 18v6 of the project the Bike Adapter was entirely designed with Autodesk Fusion360 and can be customized setting the approriate values in the available parameters allowing the generation of a 3d model adapted to the end user and thus STL or 3MF files for the slicer/3d printer.
@@ -20,9 +23,6 @@ Since Rev. 19 the project was moved on OnShape and project version numbering was
 
 * [Development release](https://cad.onshape.com/documents/e225086690158d5a937bf9fe/w/4021bf2bfacdceba3b1f0556/e/9dfe74fe60fd68384dbb2f50) - Mantained by Alessandro Villa
 * [Stable release](https://cad.onshape.com/documents/5b587ad656e9d002f8e6bad6/w/de2c6c2802ab923db649ef32/e/ab629266e0f6758e30a87845) - Manteined by e-Nable Italia
-
-The device is printed with flexible filament (TPU) to obtain the perfect mix between comfort, safety and functionality.
-The project is open source, e-Nable Italia's volunteers provide the Bike Adapter device (and others) free of charge for anyone is in need of such assistive devices.
 
 ## Thingiverse project
 
@@ -40,6 +40,10 @@ Insert the appropriate values in the parameters in sequence:
 * vent_hole_no, number of vent holes, take care to choose an appropriate value to keep holes below the solid body of the device
 * E_handle_dia, bike handlebar diameter
 * F_lng_affect_inner_elbow, length of affected arm, measured from elbow crease to the tip of the stump
+
+## Printing directives
+
+[To Be Added]
 
 ## Authors
 
