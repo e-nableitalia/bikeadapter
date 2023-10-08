@@ -43,7 +43,7 @@ the project was also published on Thingiverse at the following link: [Bike Adapt
 
 Dimensioning is done by setting appropriate values in parameters exposed in the OnShape project.
 
-An online configurator tool is available at the following address: [Bike Adapter Configurator] (https://dev.e-nableitalia.it/configurator/)
+An online configurator tool is available at the following address: [Bike Adapter Configurator](https://dev.e-nableitalia.it/configurator/)
 
 Manual dimensioning can be done by inserting the appropriate values in the OnShape Feature panel.
 Insert the values in the parameters in sequence:
