@@ -59,21 +59,21 @@ Instructions for dimensioning the device can be found [here](https://e-nableital
 
 ## Printing directives
 
-Rafts: No 
-Supports: No 
-Resolution: 0.2 
-Infill: 15% - Gyroid
-Filament brand: Ninjaflex 
-Filament color: Whater Translucent (#3DNF0829005), this material has proven to be the most realiable and with better layer adhesion (compared to other colors and filament brands we evaluated)
-Filament material: TPU, suggested shore 85a, higher shore gives more rigidity, use lower for additional flexibility for the device.
+* Rafts: No 
+* Supports: No 
+* Resolution: 0.2 
+* Infill: 15% - Gyroid
+* Filament brand: Ninjaflex 
+* Filament color: Whater Translucent (#3DNF0829005), this material has proven to be the most realiable and with better layer adhesion (compared to other colors and filament brands we evaluated)
+* Filament material: TPU, suggested shore 85a, higher shore gives more rigidity, use lower for additional flexibility for the device.
 
 ## Authors
 
-Michele Praga - pragamichele@gmail.com - Original concept and first model design
+Michele Praga - pragamichele@gmail.com
 
-Alessandro Villa - filotto78@gmail.com - Fusion 360 parametric version, OnShape version
+Alessandro Villa - filotto78@gmail.com
 
-e-Nable Italia - info@e-nableitalia.it - 
+e-Nable Italia - info@e-nableitalia.it 
 
 Check for further information, updates and information on this and other e-Nable Italia’s projects on our website: [https://e-nableitalia.it/bikeadapter](https://e-nableitalia.it/it_it/portfolio/bike-adapter/) & https://e-nableitalia.it
 
