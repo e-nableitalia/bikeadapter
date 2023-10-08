@@ -23,14 +23,15 @@ Since Rev. 19 the project was moved on OnShape and project version numbering was
 
 * [Stable release](https://cad.onshape.com/documents/ca8363f0e231780e668e998b/w/a26bb6ec5623c8082f0c169f/e/3e5b5222f11b40dd3fc85b5d) - Manteined by e-Nable Italia
 
-```diff - Important Note: This project is parametric and requires specific recipient adaptation, se *dimensioning* section for details.
-```
+> [!IMPORTANT]
+> This project is parametric and requires specific recipient adaptation, see **dimensioning** section for details.
+
 
 ## Version history
 
-* [OnShape V3] (https://cad.onshape.com/documents/ca8363f0e231780e668e998b/w/a26bb6ec5623c8082f0c169f/e/3e5b5222f11b40dd3fc85b5d) - reinforced structure, added internal hole to double perimeters surface and to increase flexibility, new design significatively decreases print time
-* [OnShape V2] (https://cad.onshape.com/documents/5b587ad656e9d002f8e6bad6/w/de2c6c2802ab923db649ef32/e/ab629266e0f6758e30a87845) - added multiple supports
-* [OnShape V1] (https://cad.onshape.com/documents/46a4c4172ddd04c75d593001/w/5926f7823c4074041b5158a1/e/589555b9dba7eac6af07f0b4) - first release, single support
+* [OnShape V3](https://cad.onshape.com/documents/ca8363f0e231780e668e998b/w/a26bb6ec5623c8082f0c169f/e/3e5b5222f11b40dd3fc85b5d) - reinforced structure, added internal hole to double perimeters surface and to increase flexibility, new design significatively decreases print time
+* [OnShape V2](https://cad.onshape.com/documents/5b587ad656e9d002f8e6bad6/w/de2c6c2802ab923db649ef32/e/ab629266e0f6758e30a87845) - added multiple supports
+* [OnShape V1](https://cad.onshape.com/documents/46a4c4172ddd04c75d593001/w/5926f7823c4074041b5158a1/e/589555b9dba7eac6af07f0b4) - first release, single support
 
 * [Development release](https://cad.onshape.com/documents/e225086690158d5a937bf9fe/w/4021bf2bfacdceba3b1f0556/e/9dfe74fe60fd68384dbb2f50) - Mantained by Alessandro Villa
 
