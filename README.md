@@ -55,7 +55,7 @@ Insert the values in the parameters in sequence:
 * F_lng_affect_inner_elbow, length of affected arm, measured from elbow crease to the tip of the stump
 * vent_hole_no, number of vent holes, take care to choose an appropriate value to keep holes below the solid body of the device
 
-Instructions for dimensioning the device can be found [here] (https://e-nableitalia.it/en/dimensionamento-bike-adapter/)
+Instructions for dimensioning the device can be found [here](https://e-nableitalia.it/en/dimensionamento-bike-adapter/)
 
 ## Printing directives
 
